@@ -18,7 +18,7 @@ const config = {
   url: 'https://SUNAT-test.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/plame-test/',
+  baseUrl: '/diligencia-rectificacion/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
